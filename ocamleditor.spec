@@ -4,7 +4,7 @@ Release:        %mkrel 1
 Summary:        Source code editor and build tool for OCaml
 License:        GPL
 Group:          Development/Other
-URL:            http://ocamleditor.forge.ocamlcore.org/
+URL:            https://ocamleditor.forge.ocamlcore.org/
 Source0:        http://forge.ocamlcore.org/frs/download.php/437/OCamlEditor-%{version}test.tar.gz
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}
 BuildRequires:  ocaml
